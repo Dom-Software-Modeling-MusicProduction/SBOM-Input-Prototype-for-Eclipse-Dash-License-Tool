@@ -35,6 +35,10 @@ This is an early prototype. Planned improvements include:
 - Integration with the Dash License Tool workflow
 - Support for enriched SBOM output
 
+## Current Limitations
+
+This prototype is designed for local testing and may require specific file paths or environment setup. These constraints will be addressed in future iterations as this implementation is refined and then slowly integrated into the Dash License Tool.
+
 ## Notes
 
 This repository is intended as a prototype and will hopefully expand to a larger implementation. This code is still evolving and may change as the project develops.
